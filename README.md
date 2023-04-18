@@ -1,30 +1,32 @@
-# IIT Mandi Git Hero 2023 ( Fork your way to victory with GIT! )
-We welcome you all to Git Hero 2023
+# IIT Mandi Git Hero 2023 - Get Gud with Git 
+
+Welcome to Git Hero 2023 !! 
+
+## The Story So Far...
+
+*Deanu* and *Behru* are two evil supervillians (famous among all), hell bent on destroying the peace of the young minds of different colleges, by illegally hacking the attendance databases and modifying everyone's attendance to very low percentages. They keep covering their tracks and are almost impossible to catch. 
+
+*HackerDB* is a student-led organization dedicated for cyber-securing the youth. They have taken upon them to bring an end to Deanu and Behru's metasploits.
+
+**HackerDB now requires your assistance to bring them to justice.**
+
+## Instructions
+
+- Hack your way to the attendance database through the [issues](https://github.com/KamandPrompt/GitHero_2023/issues) tab. 
+- Start with Task 1. Complete your endeavour with Task 7.
+- Everything is procedural, thus proceed from Task 1 to Task 7 in order. 
+
+## Tips
+*Google, ChatGPT, git log and git status* are your best tools in the box.
+
+![download (1)](https://user-images.githubusercontent.com/96137168/227590735-7a396135-f910-4ac5-8002-e70f2df94bae.jpeg)
 
 
-## Plot
-Deanu and Behu are two ecil supervillians hell bent on destro  (you know who they are ;P).
+**May the Force be with you!!!**
 
-Hint: Paddu is a pro level comder while Vicku is a graphic designing gawd.
+![](https://user-images.githubusercontent.com/96137168/226101488-1c572555-6ac6-44cf-a214-f57f53895840.gif)
 
-Vicku is a very short-tempered guy. Interestingly, Vicku got infected with a deadly and contagious disease ‘F’. As he was in quarantine and was feeling agitated, there are chances that he might come out and spread the disease throughout the campus. So, his good friend Paddu, in an attempt to stop Vicku, developed a game. But, there are some bugs in the game that need to be fixed and Vicku is a noob when it comes to using git.
-
-If Vicku is not able to play the game, he will come out of his quarantine and spread the disease throughout the campus. Hence, in order to stop this madness and save yourself from getting infected by ‘F’, you need to help Vicku in removing bugs from the game.
-
-
-## Get started
-To get started, go to the [issues](https://github.com/KamandPrompt/GitHero_2022/issues) tab. Start with the challenge 1 to challenge 7. The scores for them are alongside and they go in order, so until you complete the challenge1, you cannot move to challenge2. You need to complete previous challenges first.
-
-
-## Some tips
-Google, git status, git log and ChatGPT are your best friends in this challenge.
-Try to complete as many challenge as you can. All the Best! What are you waiting for now? Go start with the challenges.
-
-
-## After finishing all the challenges
-
-
-## Visualising git commands :-
-1. https://onlywei.github.io/explain-git-with-d3/#checkout-b
-2. https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1
-3. https://git-school.github.io/visualizing-git/
+## Git Commands Visualized :
+1. [Visualize Through Git ](https://learngitbranching.js.org)
+2. [Oh My Git](https://ohmygit.org)
+3. [Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
